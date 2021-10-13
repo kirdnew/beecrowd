@@ -1,0 +1,9 @@
+A = gets.chomp.to_f
+B = gets.chomp.to_f
+C = gets.chomp.to_f
+A *= 2
+B *= 3
+C *= 5
+media = (A + B + C) / 10.0
+media += 0.0000000001
+puts "MEDIA = #{'%.1f' % media}"
