@@ -1,4 +1,4 @@
-d = gets.strip.to_i
+d = gets.to_i
 
 a = d / 365
 d %= 365
