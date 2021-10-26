@@ -1,4 +1,4 @@
-# URI Online Judge
+# Beecrowd
 
-Resolução de exercícios do site urionlinejudge.com
+Resolução de exercícios do site beecrowd.com
 
